@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lgs:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lgs_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lgs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lgs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
